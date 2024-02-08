@@ -10,8 +10,8 @@
 
 ## Содержание
 
-1. [Документация](documentation)
-2. [3D Модельки](3Dmodels)
-3. [Схемы](schemes)
-4. [Смета](estimates)
+1. [Документация](https://github.com/AlexanderOsharov/PredProf-2024-/tree/documentation)
+2. [3D Модельки](https://github.com/AlexanderOsharov/PredProf-2024-/tree/3Dmodels)
+3. [Схемы](https://github.com/AlexanderOsharov/PredProf-2024-/tree/schemes)
+4. [Смета](https://github.com/AlexanderOsharov/PredProf-2024-/tree/estimates)
 
