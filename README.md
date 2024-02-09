@@ -12,7 +12,7 @@
 
 1. [Документация](https://github.com/AlexanderOsharov/PredProf-2024-/tree/documentation)
 2. [Видео](https://github.com/AlexanderOsharov/PredProf-2024-/tree/video)
-3. [3D Модельки](https://github.com/AlexanderOsharov/PredProf-2024-/tree/3Dmodels)
+3. [3D Модель](https://github.com/AlexanderOsharov/PredProf-2024-/tree/3Dmodels)
 4. [Схемы](https://github.com/AlexanderOsharov/PredProf-2024-/tree/schemes)
 5. [Смета](https://github.com/AlexanderOsharov/PredProf-2024-/tree/estimates)
 
