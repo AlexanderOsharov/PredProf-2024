@@ -15,4 +15,5 @@
 3. [3D Модель](https://github.com/AlexanderOsharov/PredProf-2024-/tree/main/3d_model)
 4. [Схемы](https://github.com/AlexanderOsharov/PredProf-2024-/tree/main/schemes)
 5. [Смета](https://github.com/AlexanderOsharov/PredProf-2024-/tree/main/estimates)
+6. [Код](https://github.com/AlexanderOsharov/PredProf-2024/tree/main/code)
 
